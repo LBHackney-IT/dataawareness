@@ -80,7 +80,7 @@ Assuming youâ€™ve taken care of filing, you still need to pay attention to whatâ
 
 -   be cautious about clicking on links sent to you in emails, particularly if the website you are led to asks for login details. Even if you recognise the name of the sender, it may be advisable to call them and check that they have sent that email, before you click the link.
 
-<img src="../images/media/image2.png" alt="Lock on computer screen" style="width:4.16667in;height:4.16667in" />
+<img src="../images/media/image6.png" alt="Lock on computer screen" style="width:4.16667in;height:4.16667in" />
 
 Always lock your screen when leaving your desk
 
