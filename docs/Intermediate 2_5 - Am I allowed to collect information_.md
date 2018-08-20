@@ -114,7 +114,7 @@ As someone with responsibilities for making decisions about the way information 
 
 **Processing personal information lawfully **
 
-<img src="../images/media/image2.png" alt="Scales of justice labelled GDPR" style="width:3.40278in;height:3.55556in" />
+<img src="../images/media/image5.png" alt="Scales of justice labelled GDPR" style="width:3.40278in;height:3.55556in" />
 
 We are all required to process personal information lawfully, fairly and in a transparent manner. Processing is only lawful if you can prove a ‘lawful basis’ and identifying this is a key consideration during the Privacy Impact Assessment before collecting new data.
 
