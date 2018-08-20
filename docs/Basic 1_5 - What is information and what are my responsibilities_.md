@@ -36,7 +36,7 @@ It is important you think about all the information you’re responsible for at 
 
 Information is about any channel or document where the contents relate to individual people, processes or decisions.
 
-<img src="../images/media/image2.png" alt="Graphic showing email, letters and images as part of computer data" style="width:3.55556in;height:3.55556in" />
+<img src="../images/media/image1.png" alt="Graphic showing email, letters and images as part of computer data" style="width:3.55556in;height:3.55556in" />
 
 Photos, email and post may all contain personal information - not just data on a computer
 
