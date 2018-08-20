@@ -22,4 +22,5 @@ You are free to use this content however you will find it useful. You might keep
 
 The documents can be downloaded in Word format (.docx) from the *"docx"* folder or the content can be viewed in the *"docs"* folder.
 
+---
 (The markdown documents were generated with Pandoc, for documentation visit https://pandoc.org/)
