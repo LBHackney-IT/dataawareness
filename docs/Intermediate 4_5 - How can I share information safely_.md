@@ -88,7 +88,7 @@ Examples include:
 
 If you are responsible for information that is OFFICIAL-SENSITIVE then you must make sure it is clearly marked with this classification.
 
-<img src="../images/media/image4.png" alt="Documents" style="width:4.16667in;height:4.16667in" />
+<img src="../images/media/image7.png" alt="Documents" style="width:4.16667in;height:4.16667in" />
 
 All Council information is automatically OFFICIAL. You must decide if information you are responsible for needs to be marked OFFICIAL SENSITIVE
 
