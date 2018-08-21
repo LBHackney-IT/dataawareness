@@ -14,7 +14,7 @@ How might we:
 We talked to several specialists agencies about how they could help, and selected Helpful Digital to work with us on development of the content.
 
 ### Content
-You are free to use this content however you will find it useful. You might keep it in document form, but could also choose to move the content into your own Learning Management System. Another option is to use Helpful Digital’s Digital Action Plan platform with our content at a small cost - you can read more about this option [Insert link].
+You are free to use this content however you will find it useful. You might keep it in document form, but could also choose to move the content into your own Learning Management System. Another option is to use Helpful Digital’s Digital Action Plan platform with our content at a small cost - you can read more about this option at https://helpfuldigital.com/helping-teams-to-handle-personal-information-with-care.
 
 - Content for people handling data is called ‘Beginner’ and marked 1-5.
 - Content for people making decisions about data is called ‘Intermediate’ and is marked 1-5.
